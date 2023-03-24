@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="./images/gospers.gif" alt="Logo" width="80" height="80">
+    <img src="https://img.icons8.com/carbon-copy/256/rick-sanchez.png" alt="Logo" width="80" height="80">
 
 <h3 align="center">Rick & Morty NFT</h3>
 
